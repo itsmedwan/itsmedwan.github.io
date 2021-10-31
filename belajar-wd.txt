@@ -2,4 +2,3 @@ daftar isi
 -daftar html
 -daftar css
 -daftar jquery
--mengenal bootstrap
