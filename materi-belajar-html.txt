@@ -1,0 +1,5 @@
+dasar  dasar html
+-tag heading
+-tag <a>
+-tag <img>
+-emded video, mp3, dll
