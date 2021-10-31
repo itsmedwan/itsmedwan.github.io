@@ -3,3 +3,4 @@ daftar isi
 -daftar css
 -daftar jquery
 -mengenal bootstrap
+-membuat tamplate menggunakan bootstrap
