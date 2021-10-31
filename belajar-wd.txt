@@ -2,3 +2,7 @@ daftar isi
 -daftar html
 -daftar css
 -daftar jquery
+-mengenal bootstrap
+-upload file project
+-belajar git dan github
+
